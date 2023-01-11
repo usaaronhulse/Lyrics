@@ -1,0 +1,5 @@
+GET /v1/charts/world HTTP/1.1
+X-Rapidapi-Key: 59665160d2msheb2b594e00580acp121249jsne1053ba38c67
+X-Rapidapi-Host: shazam-core.p.rapidapi.com
+Host: shazam-core.p.rapidapi.com
+
